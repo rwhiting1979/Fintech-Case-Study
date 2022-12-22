@@ -3,7 +3,7 @@
 ## *Will Chainalysis continue to be the leading RegTech provider for blockchain security?*
 ## *Sinjed Depina*, *Ron Whiting*
 ### Overview of Chainalysis
-Headquartered out of New York, New York, Chainalysis was co-founded by Michael Gronager and Jonathan Levin in 2014. Chainalysis is a blockchain data platform that provides data, software, services, and research to government agencies, exchanges, financial institutions, and insurance and cybersecurity companies in over 70 countries. Their data powers investigation, compliance, and market intelligence software that has been used to solve some of the world’s most high-profile criminal cases and grow consumer access to cryptocurrency safely. The top competitors of Chainalysis are 6clicks, Tessian, Tookitaki, and Ascent.
+Headquartered out of New York, New York, Chainalysis was co-founded by Michael Gronager and Jonathan Levin in 2014. Chainalysis is a blockchain data platform that provides data, software, services, and research to government agencies, exchanges, financial institutions, and insurance and cybersecurity companies. Their data powers investigation, compliance, and market intelligence software that has been used to solve some of the world’s most high-profile criminal cases and grow consumer access to cryptocurrency safely. The top competitors of Chainalysis are 6clicks, Tessian, Tookitaki, and Ascent.
 
 The firm’s data platform has been used to solve high-profile criminal cases involving digital assets, including the seizure of $3.5 billion of crypto by the Internal Revenue Service’s Criminal Investigation unit, announced in November 2020, and the Colonial Pipeline Ransomware Attack. Chainalysis now screens over $1 trillion in transaction value each month across all cryptocurrency assets.
 
